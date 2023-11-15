@@ -11,7 +11,7 @@
 
 # My Skills
 
-<img alt="Coder GIF" height=320 width=490 src="https://i.imgur.com/JqmV9bT.gif" min-width="400px" max-width="400px" width="400px" align="right"/>
+<img alt="Coder GIF" height=280 width=440 src="https://i.imgur.com/JqmV9bT.gif" align="right"/>
 
 ## Front-end:
 

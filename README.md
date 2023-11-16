@@ -12,7 +12,7 @@
 # My Skills
 
 <div align="center">
-<img alt="Coder GIF" height=240 width=410 src="https://i.imgur.com/JHjiazF.gif"/>
+<img alt="Coder GIF" height=240 width=410 src="https://i.imgur.com/4v2fH07.gif"/>
 </div>
 
 ## Front-end:

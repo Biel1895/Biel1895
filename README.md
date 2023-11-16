@@ -11,7 +11,9 @@
 
 # My Skills
 
-<img alt="Coder GIF" height=280 width=460 max-width=460 src="https://i.imgur.com/0smn8hS.gif" align="right"/>
+<div align="center">
+<img alt="Coder GIF" height=240 width=410 src="https://i.imgur.com/0smn8hS.gif"/>
+</div>
 
 ## Front-end:
 
@@ -48,9 +50,7 @@
 # Contacts:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/biel1895)
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://biel1895.tech/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielmlrrios@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/CMOODOJB3AMDJ1)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/biel1895?igshid=NzZlODBkYWE4Ng==)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>

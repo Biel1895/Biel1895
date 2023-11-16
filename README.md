@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5D12D2&height=120&section=header&text=Welcome&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B931FC&height=120&section=header&text=Welcome&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B931FC&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gabriel+Rios.;I'm+a+developer+fascinated+with+learning+more.)
 
@@ -76,4 +76,4 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielmlrrios@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/biel1895?igshid=NzZlODBkYWE4Ng==)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5D12D2&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B931FC&height=120&section=footer"/>

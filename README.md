@@ -51,20 +51,20 @@
 
 <div align="center">  
 
-[![Readme Card 1](https://github-readme-stats.vercel.app/api/pin/?username=Biel1895&repo=presente-milena&hide_border=true&title_color=5D12D2&icon_color=5D12D2&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Biel1895/presente-milena)
-[![Readme Card 2](https://github-readme-stats.vercel.app/api/pin/?username=Biel1895&repo=lista-de-tarefas&hide_border=true&title_color=5D12D2&icon_color=5D12D2&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Biel1895/lista-de-tarefas)
+[![Readme Card 1](https://github-readme-stats.vercel.app/api/pin/?username=Biel1895&repo=presente-milena&hide_border=true&title_color=B931FC&icon_color=B931FC&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Biel1895/presente-milena)
+[![Readme Card 2](https://github-readme-stats.vercel.app/api/pin/?username=Biel1895&repo=lista-de-tarefas&hide_border=true&title_color=B931FC&icon_color=B931FC&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Biel1895/lista-de-tarefas)
 
 </div>
 <div align="center">  
 
-[![Readme Card 3](https://github-readme-stats.vercel.app/api/pin/?username=Biel1895&repo=flanatics&hide_border=true&title_color=5D12D2&icon_color=5D12D2&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Biel1895/flanatics)
-[![Readme Card 4](https://github-readme-stats.vercel.app/api/pin/?username=Biel1895&repo=game-heroi-vs-monstros&hide_border=true&title_color=5D12D2&icon_color=5D12D2&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Biel1895/game-heroi-vs-monstros)
+[![Readme Card 3](https://github-readme-stats.vercel.app/api/pin/?username=Biel1895&repo=flanatics&hide_border=true&title_color=B931FC&icon_color=B931FC&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Biel1895/flanatics)
+[![Readme Card 4](https://github-readme-stats.vercel.app/api/pin/?username=Biel1895&repo=game-heroi-vs-monstros&hide_border=true&title_color=B931FC&icon_color=B931FC&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Biel1895/game-heroi-vs-monstros)
 
 </div>
 <div align="center">  
 
-[![Readme Card 5](https://github-readme-stats.vercel.app/api/pin/?username=Biel1895&repo=portfolio&hide_border=true&title_color=5D12D2&icon_color=5D12D2&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Biel1895/portfolio)
-[![Readme Card 6](https://github-readme-stats.vercel.app/api/pin/?username=Biel1895&repo=jogo-numero-secreto-js&hide_border=true&title_color=5D12D2&icon_color=5D12D2&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Biel1895/jogo-numero-secreto-js)
+[![Readme Card 5](https://github-readme-stats.vercel.app/api/pin/?username=Biel1895&repo=portfolio&hide_border=true&title_color=B931FC&icon_color=B931FC&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Biel1895/portfolio)
+[![Readme Card 6](https://github-readme-stats.vercel.app/api/pin/?username=Biel1895&repo=jogo-numero-secreto-js&hide_border=true&title_color=B931FC&icon_color=B931FC&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Biel1895/jogo-numero-secreto-js)
 
 </div>
 

@@ -42,10 +42,33 @@
 	
 ### OS:
 
-![WINDOWS11](	https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
+![WINDOWS11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
 ![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![KALI-LINUX](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![ANDROID](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+## Main Projects
+
+<div align="center">  
+
+[![Readme Card 1](https://github-readme-stats.vercel.app/api/pin/?username=Biel1895&repo=presente-milena&hide_border=true&title_color=CD1818&icon_color=ff0000&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Biel1895/presente-milena)
+[![Readme Card 2](https://github-readme-stats.vercel.app/api/pin/?username=Biel1895&repo=lista-de-tarefas&hide_border=true&title_color=CD1818&icon_color=ff0000&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Biel1895/lista-de-tarefas)
+
+</div>
+<div align="center">  
+
+[![Readme Card 3](https://github-readme-stats.vercel.app/api/pin/?username=Biel1895&repo=flanatics&hide_border=true&title_color=CD1818&icon_color=ff0000&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Biel1895/flanatics)
+[![Readme Card 4](https://github-readme-stats.vercel.app/api/pin/?username=Biel1895&repo=game-heroi-vs-monstros&hide_border=true&title_color=CD1818&icon_color=ff0000&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Biel1895/game-heroi-vs-monstros)
+
+</div>
+<div align="center">  
+
+[![Readme Card 5](https://github-readme-stats.vercel.app/api/pin/?username=Biel1895&repo=portfolio&hide_border=true&title_color=CD1818&icon_color=ff0000&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Biel1895/portfolio)
+[![Readme Card 6](https://github-readme-stats.vercel.app/api/pin/?username=Biel1895&repo=jogo-numero-secreto-js&hide_border=true&title_color=CD1818&icon_color=ff0000&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Biel1895/jogo-numero-secreto-js)
+
+</div>
+
+
 
 # Contacts:
 

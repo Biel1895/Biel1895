@@ -1,10 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=header&text=Welcome&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5D12D2&height=120&section=header&text=Welcome&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gabriel+Rios.;I'm+a+developer+fascinated+with+learning+more.)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5D12D2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gabriel+Rios.;I'm+a+developer+fascinated+with+learning+more.)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Biel1895&show_icons=true&hide_border=true&title_color=CD1818&icon_color=ff0000&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Rios github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biel1895&layout=compact&hide_border=true&title_color=CD1818&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Biel1895&show_icons=true&hide_border=true&title_color=5D12D2&icon_color=5D12D2&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Rios github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biel1895&layout=compact&hide_border=true&title_color=5D12D2&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 
@@ -51,20 +51,20 @@
 
 <div align="center">  
 
-[![Readme Card 1](https://github-readme-stats.vercel.app/api/pin/?username=Biel1895&repo=presente-milena&hide_border=true&title_color=CD1818&icon_color=ff0000&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Biel1895/presente-milena)
-[![Readme Card 2](https://github-readme-stats.vercel.app/api/pin/?username=Biel1895&repo=lista-de-tarefas&hide_border=true&title_color=CD1818&icon_color=ff0000&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Biel1895/lista-de-tarefas)
+[![Readme Card 1](https://github-readme-stats.vercel.app/api/pin/?username=Biel1895&repo=presente-milena&hide_border=true&title_color=5D12D2&icon_color=5D12D2&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Biel1895/presente-milena)
+[![Readme Card 2](https://github-readme-stats.vercel.app/api/pin/?username=Biel1895&repo=lista-de-tarefas&hide_border=true&title_color=5D12D2&icon_color=5D12D2&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Biel1895/lista-de-tarefas)
 
 </div>
 <div align="center">  
 
-[![Readme Card 3](https://github-readme-stats.vercel.app/api/pin/?username=Biel1895&repo=flanatics&hide_border=true&title_color=CD1818&icon_color=ff0000&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Biel1895/flanatics)
-[![Readme Card 4](https://github-readme-stats.vercel.app/api/pin/?username=Biel1895&repo=game-heroi-vs-monstros&hide_border=true&title_color=CD1818&icon_color=ff0000&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Biel1895/game-heroi-vs-monstros)
+[![Readme Card 3](https://github-readme-stats.vercel.app/api/pin/?username=Biel1895&repo=flanatics&hide_border=true&title_color=5D12D2&icon_color=5D12D2&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Biel1895/flanatics)
+[![Readme Card 4](https://github-readme-stats.vercel.app/api/pin/?username=Biel1895&repo=game-heroi-vs-monstros&hide_border=true&title_color=5D12D2&icon_color=5D12D2&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Biel1895/game-heroi-vs-monstros)
 
 </div>
 <div align="center">  
 
-[![Readme Card 5](https://github-readme-stats.vercel.app/api/pin/?username=Biel1895&repo=portfolio&hide_border=true&title_color=CD1818&icon_color=ff0000&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Biel1895/portfolio)
-[![Readme Card 6](https://github-readme-stats.vercel.app/api/pin/?username=Biel1895&repo=jogo-numero-secreto-js&hide_border=true&title_color=CD1818&icon_color=ff0000&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Biel1895/jogo-numero-secreto-js)
+[![Readme Card 5](https://github-readme-stats.vercel.app/api/pin/?username=Biel1895&repo=portfolio&hide_border=true&title_color=5D12D2&icon_color=5D12D2&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Biel1895/portfolio)
+[![Readme Card 6](https://github-readme-stats.vercel.app/api/pin/?username=Biel1895&repo=jogo-numero-secreto-js&hide_border=true&title_color=5D12D2&icon_color=5D12D2&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Biel1895/jogo-numero-secreto-js)
 
 </div>
 
@@ -76,4 +76,4 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielmlrrios@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/biel1895?igshid=NzZlODBkYWE4Ng==)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5D12D2&height=120&section=footer"/>

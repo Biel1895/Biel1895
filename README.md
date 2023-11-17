@@ -3,8 +3,10 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B931FC&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gabriel+Rios.;I'm+a+developer+fascinated+with+learning+more.)
 
 <div align="center">  
-  <img width="500" height="195px" src="https://github-readme-stats.vercel.app/api?username=Biel1895&show_icons=true&hide_border=true&title_color=B931FC&icon_color=B931FC&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Rios github stats" /> 
-  <img width="450px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biel1895&layout=compact&hide_border=true&title_color=B931FC&text_color=c9d1d9&bg_color=0d1117" />
+<a href="https://github.com/Biel1895">
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=Biel1895&show_icons=true&hide_border=true&title_color=B931FC&icon_color=B931FC&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Rios github stats" /> 
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biel1895&layout=compact&hide_border=true&title_color=B931FC&text_color=c9d1d9&bg_color=0d1117" />
+<a/>
 </div>
 
 

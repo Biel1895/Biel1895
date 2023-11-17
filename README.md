@@ -13,7 +13,7 @@
 
 # My Skills
 
-<img alt="Notebook codes" height=355 width=395 align="right" src="https://i.imgur.com/kRYWWJg.png"/>
+<img alt="Notebook codes" height=355 width=395 align="right" src="https://i.imgur.com/16qLMOT.png"/>
 
 ## Front-end:
 

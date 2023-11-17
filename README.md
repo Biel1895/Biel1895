@@ -11,9 +11,7 @@
 
 # My Skills
 
-<div align="center">
-<img alt="Coder GIF" height=240 width=410 src="https://i.imgur.com/uaLthqY.gif"/>
-</div>
+<img alt="Notebook codes" height=375 width=410 align="right" src="https://i.imgur.com/kRYWWJg.png"/>
 
 ## Front-end:
 
@@ -72,8 +70,8 @@
 
 # Contacts:
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/biel1895)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielmlrrios@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/biel1895)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/biel1895?igshid=NzZlODBkYWE4Ng==)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B931FC&height=120&section=footer"/>

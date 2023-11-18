@@ -2,14 +2,16 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B931FC&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gabriel+Rios.;I'm+a+developer+fascinated+with+learning+more.)
 
+<p align="center">
+Front-End Specialist, fully immersed in the tech world, I help individuals unlock their full online potential. I work tirelessly to craft agile solutions with a user experience that not only impresses but propels towards success. I'm in a constant state of learning to find the best solutions. Feel free to explore my projects; I hope you enjoy!
+</p>
+
+#
+
 <div align="center">  
-<a href="https://github.com/Biel1895">
   <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=Biel1895&show_icons=true&hide_border=true&title_color=B931FC&icon_color=B931FC&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Rios github stats" /> 
   <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biel1895&layout=compact&hide_border=true&title_color=B931FC&text_color=c9d1d9&bg_color=0d1117" />
-<a/>
 </div>
-
-
 
 # My Skills
 
@@ -47,7 +49,7 @@
 ![KALI-LINUX](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![ANDROID](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-## Main Projects
+## Main Projects:
 
 <div align="center">  
 
@@ -70,7 +72,7 @@
 
 
 
-# Contacts:
+# Connect with me:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielmlrrios@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/biel1895)
